@@ -1,0 +1,8 @@
+.userOutput{
+    border: 1px solid teal;
+    display: inline-block;
+    margin: 10px;
+    width: 200px;
+    padding: 20px;
+    border-radius: 5px;
+}
